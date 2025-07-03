@@ -4,9 +4,9 @@ This project showcases how raw real-world data can be cleaned and transformed us
 
 ---
 
-## 📄 Dataset Description
+## Dataset Description
 
-📊 **Dataset**: [Layoffs 2022 (Kaggle)](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+**Dataset**: [Layoffs 2022 (Kaggle)](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
 This dataset contains information about layoffs at various companies, primarily in the tech sector, during the 2022 economic downturn. It includes the following fields:
 - Company
@@ -17,11 +17,11 @@ This dataset contains information about layoffs at various companies, primarily 
 - Date of layoff
 - Funding stage
 
-📁 **File Used**: `layoffs.csv`
+**File Used**: `layoffs.csv`
 
 ---
 
-## ✅ Project Objectives
+## Project Objectives
 
 - Remove duplicate records
 - Standardize inconsistent formats (e.g., date and text casing)
@@ -32,16 +32,10 @@ This dataset contains information about layoffs at various companies, primarily 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **MySQL** – for running and testing SQL queries
 - **SQL** – CTEs, `ROW_NUMBER()`, `TRIM()`, `UPPER()`, joins, and more
 - **Excel** – for data preview and initial inspection
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/basvi-chunara/SQL-Project-Data-Cleaning.git
